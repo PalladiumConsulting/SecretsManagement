@@ -1,0 +1,4 @@
+\\psf\Home\Documents\Visual Studio 2015\Projects\SetecAstronomyAzureKeyVault\ConfigProvider\bin\Debug\ConfigProvider.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\SetecAstronomyAzureKeyVault\ConfigProvider\bin\Debug\ConfigProvider.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\SetecAstronomyAzureKeyVault\ConfigProvider\obj\Debug\ConfigProvider.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\SetecAstronomyAzureKeyVault\ConfigProvider\obj\Debug\ConfigProvider.pdb

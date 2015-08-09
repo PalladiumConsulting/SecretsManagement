@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    Sectec Astronomy
+</div>
+
+<div class="row">
+    @foreach (var item in Util.EncryptSecret)
+    {
+        <text>@item.Key : @item.Value</text>
+        <br />
+    }
+</div>
