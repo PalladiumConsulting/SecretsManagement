@@ -1,0 +1,120 @@
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\csc.exe
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CSharp.Core.targets
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\System.Collections.Immutable.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\System.Reflection.Metadata.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\vbc.exe
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\VBCSCompiler.exe
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\VBCSCompiler.exe.config
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.dll.config
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.pdb
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Antlr3.Runtime.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Microsoft.Web.Infrastructure.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Newtonsoft.Json.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Helpers.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Mvc.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Optimization.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Razor.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Deployment.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Razor.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\WebGrease.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Helpers.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Mvc.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Optimization.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Razor.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Deployment.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Razor.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Antlr3.Runtime.pdb
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Newtonsoft.Json.xml
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.dll
+\\psf\home\documents\visual studio 2015Projects\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.pdb
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\csc.exe
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\System.Collections.Immutable.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\System.Reflection.Metadata.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\vbc.exe
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\VBCSCompiler.exe
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\roslyn\VBCSCompiler.exe.config
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.dll.config
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.pdb
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Antlr3.Runtime.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Microsoft.Web.Infrastructure.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Newtonsoft.Json.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Helpers.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Mvc.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Optimization.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Razor.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Deployment.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Razor.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\WebGrease.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Helpers.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Mvc.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Optimization.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.Razor.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Deployment.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Razor.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Antlr3.Runtime.pdb
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\bin\Newtonsoft.Json.xml
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.dll
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.pdb
+C:\conjur\SetecAstronomyConjurAWS\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.csprojResolveAssemblyReference.cache
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\csc.exe
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\System.Collections.Immutable.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\System.Reflection.Metadata.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\vbc.exe
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\VBCSCompiler.exe
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\roslyn\VBCSCompiler.exe.config
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.dll.config
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\SetecAstronomyConjurAWS.pdb
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\Antlr3.Runtime.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\Microsoft.Web.Infrastructure.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\Newtonsoft.Json.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Helpers.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Mvc.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Optimization.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Razor.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Deployment.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.WebPages.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Razor.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\WebGrease.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Helpers.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Mvc.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Optimization.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.Razor.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.WebPages.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Deployment.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\System.Web.WebPages.Razor.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\Antlr3.Runtime.pdb
+C:\conjur\tmp\SetecAstronomyConjurAWS\bin\Newtonsoft.Json.xml
+C:\conjur\tmp\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.csprojResolveAssemblyReference.cache
+C:\conjur\tmp\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.dll
+C:\conjur\tmp\SetecAstronomyConjurAWS\obj\Debug\SetecAstronomyConjurAWS.pdb
